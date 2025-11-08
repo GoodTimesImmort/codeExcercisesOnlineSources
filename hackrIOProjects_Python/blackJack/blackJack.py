@@ -1,4 +1,13 @@
-### Blackjack game from https://hackr.io/blog/python-projects
+"""
+File Name: blackJack.py
+Author: hackr.io
+Reproduced: goodTimesImmort
+Link: https://hackr.io/blog/python-projects
+Description: This is a blackjack game with text input and ASCII art.
+[gT_I]: Imports random for selecting cards and os to handle system memory. Creates classes for Card and Deck and initializes them. 
+Uses random to select cards then uses functions to display them and remove them from Deck to keep track. Plays one round by takink
+text input for hit or stand. 
+"""
 
 import random
 import os

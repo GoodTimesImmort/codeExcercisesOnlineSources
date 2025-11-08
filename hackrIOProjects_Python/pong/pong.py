@@ -1,4 +1,12 @@
-### pong from https://hackr.io/blog/python-projects
+"""
+File Name: pong.py
+Author: hackr.io
+Reproduced: goodTimesImmort
+Link: https://hackr.io/blog/python-projects
+Description: Game of pong using Turtle.
+[gT_I]: Uses the Turtle library. Creates a while loop for ball position and collision. 
+It takes keyboard inputs to move the paddles. 
+"""
 
 import turtle
 

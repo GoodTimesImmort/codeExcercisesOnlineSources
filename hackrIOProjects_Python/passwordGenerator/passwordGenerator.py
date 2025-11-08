@@ -1,4 +1,11 @@
-### Password generator from https://hackr.io/blog/python-projects
+"""
+File Name: passwordGenerator.py
+Author: hackr.io
+Reproduced: goodTimesImmort
+Link: https://hackr.io/blog/python-projects
+Description: This is a pasword generator thatblackjack game with text input and ASCII art.
+[gT_I]: Creates a strong password by setting the conditinos and then looping with secrets and random until the conditions are met. It then prints the password.
+"""
 
 import secrets
 import string

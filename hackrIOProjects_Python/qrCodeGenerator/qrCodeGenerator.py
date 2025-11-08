@@ -1,4 +1,11 @@
-#From hackr.io projects
+"""
+File Name: qrCodeGenerator.py
+Author: hackr.io
+Reproduced: goodTimesImmort
+Link: https://hackr.io/blog/python-projects
+Description: QR code generator app
+[gT_I]: A tkinter GUI that allows you to input a site and creates a QR Code for it with the qrcode module and creates a png file for it. 
+"""
 
 import tkinter as tk
 from tkinter import ttk

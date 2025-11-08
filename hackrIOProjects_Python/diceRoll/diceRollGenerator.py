@@ -1,3 +1,12 @@
+"""
+File Name: diceRollGenerator.py
+Author: hackr.io
+Reproduced: goodTimesImmort
+Link: https://hackr.io/blog/python-projects
+Description: This is a dice roll generator with text input/output.
+[gT_I]: Imports random for dice numbers and os to clear memory. Takes input of 1 or 2 dice and error checks, 
+then randomizes dice output. It also asks to go again or exits. 
+"""
 ### Dice roll generator from https://hackr.io/blog/python-projects
 
 import random
