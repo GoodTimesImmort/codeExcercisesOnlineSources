@@ -1,4 +1,11 @@
-#From w3 
+"""
+File Name: playlistOrganizer.py
+Author: w3school.com
+Reproduced: goodTimesImmort
+Description: Sample of multiple methods in a class
+[gT_I]: Creates instance of class Playlist and then calls method to add or remove songs.
+"""
+
 class Playlist:
   def __init__(self, name):
     self.name = name

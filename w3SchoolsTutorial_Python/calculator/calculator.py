@@ -1,3 +1,12 @@
+"""
+File Name: calculator.py
+Author: w3school.com
+Reproduced: goodTimesImmort
+Description: This script is a simple text driven calculator.
+[gT_I]: The script defines the math and memory with functions 
+and then creates a loop for input and output. 
+"""
+
 # Basic Arithmetic Functions
 def add(a, b):
     return a + b 
